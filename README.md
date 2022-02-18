@@ -3,7 +3,9 @@
 - 论文学习笔记：https://1drv.ms/u/s!Atk1z3u0Y7Vdki3QW_Iv5dJrR3xY 。
 - 笔记按照代码顺序，主要分为6部分
 > 1.basic embedding
+
 > 2.CNN
+> 
 > 3.RNN
 > 4.attention
 > 5.transformer
